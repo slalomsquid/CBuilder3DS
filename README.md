@@ -1,5 +1,7 @@
 # 3DS C Builder
 
+Thanks to Manurocker95 for the original https://github.com/Manurocker95/CIABUILDER as well as 3DSGuy for https://github.com/3DSGuy/Project_CTR/releases/tag/makerom-v0.18.4 and https://github.com/devkitpro for https://github.com/devkitPro/3ds-examples
+
 A comprehensive build system for creating Nintendo 3DS homebrew applications in C. This project simplifies the process of compiling C code into multiple 3DS formats (.3dsx, .elf, .3ds, and .cia) with automated asset creation and packaging.
 
 ## 🎯 What This Project Does
